@@ -1,4 +1,4 @@
-# EDA Exercise 
+# Exploratory Data Analysis (EDA) Exercise 
 
 ### A list of exercises to test Pythons - Pandas, Matplotlib, Numpy libraries
 
